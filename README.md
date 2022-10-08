@@ -1,4 +1,4 @@
-[![MasterHead](https://media.istockphoto.com/vectors/flat-line-design-header-programming-skills-vector-id659437428
+[![MasterHead]
 <h1 align="center">Hi 👋, I'm Ujjwal Yadav</h1>
 <h3 align="center">Exploring technology</h3>
 <img align="right" aly="coding" width="400" src="https://th.bing.com/th/id/OIP.4fNBO_UDYEVxM0E5T2FyJQHaFj?pid=ImgDet&rs=1">
