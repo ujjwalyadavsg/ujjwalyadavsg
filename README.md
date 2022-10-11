@@ -1,4 +1,4 @@
-[![MasterHead](C:\Users\Admin\Downloads\Frame 4 (1).png)
+
 <h1 align="center">Hi 👋, I'm Ujjwal Yadav</h1>
 <h3 align="center">Exploring technology</h3>
 
